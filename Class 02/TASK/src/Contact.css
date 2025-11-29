@@ -1,0 +1,15 @@
+h3 {
+  text-align: left;
+}
+div{
+    text-align: left;
+}
+b {
+  color: blue;
+}
+
+span{
+    color:red;
+    text-align: left;
+    font-weight: 500;
+}
